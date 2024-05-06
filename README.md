@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm My name is Ohm</h1>
-<h2 align="center">Subtitle</h2>
-<h3 align="center">A Student form CPSS chumphae suksa school</h3>
+<h1 align="left">Hi 👋, I'm My name is Ohm</h1>
+<h2 align="left">Subtitle: </h2>
+<h3 align="left">A Student form CPSS chumphae suksa school</h3>
 
 <p align="left">
 </p>
