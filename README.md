@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<h1 align="center">Hi 👋, I'm My name is Ohm</h1>
 <h3 align="center">A Student form CPSS chumphae suksa school</h3>
 
 <h3 align="left">Connect with me:</h3>
